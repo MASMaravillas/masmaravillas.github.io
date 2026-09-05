@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Mart Andrew Maravillas, MS / Academic Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Mart Andrew Maravillas, MS"
+description              : &description "Hello, you may call me Andy. I am currently a doctoral student in Biomedical Sciences at the Kent State University. From millions of patients to millions of molecules.  My research interests are evolving in depth, from understanding how diseases impact communities to discovering their mechanisms at the cellular and molecular levels. I am interested in the advanced applications of statistics, machine learning, and artificial intelligence in omics sciences. At Kent State, I will hone my expertise in rigorous computational methods and profound biomedical knowledge and dedicate them to elucidating disease etiologies and contributing to the design and development of therapeutics."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://masmaravillas.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mart Andrew Maravillas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Kent State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mmaravi1@kent.edu" 
 
   # Academic websites
   academia         : # URL
@@ -359,3 +359,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# Commit site configuration 20260905. 
