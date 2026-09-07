@@ -11,26 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Biomedical Sciences (Cellular and Molecular Biology), Kent State University, in-progress
+* M.S. in Educational Studies and Research, University of Southern Mississippi
+* B.S. in Secondary Education, majors in Physics and Chemistry, University of San Carlos
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 - present:  Researcher
+  * The Piontkivska Lab
+  * Duties includes:
+        Analyze transcriptomic data
+        Write scientific papers
+        Train junior members of the lab
+  * Supervisor: Helen Piontkivska, PhD
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2025 - present: Teaching Assistant
+  * Kent State University
+  * Course taught: Biological Foundations
+  * Supervisor: Shelley Jurkiewicz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2023 - July 2025: Biostatistician and Data Scientist
+  * University Hospitals Cleveland Medical Center
+  * Duties included:
+        - Lead computational workflow of research projects
+        - Design statistical plans
+        - Conduct statistical analyses
+        - Write manuscript
+  * Supervisor: Michael Barker, MBA
   
 Skills
 ======
